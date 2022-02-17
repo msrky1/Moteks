@@ -1,0 +1,5 @@
+Moteks Web Sitesi - Tasarım Modeli -> 2021
+
+Web Sitesi Tanıtım Amaçlı Tasarım ve Görsellik Ön Planda Olarak Hazırlanmıştır.
+Web Sitesinde 4 Dil Aktif Çalışmaktadır. Bu Sayede Yurt Dışı Lokasyonuna Açılmıştır.
+SSL Sertifikası Aktif Edilerek güvenli giriş sağlanacaktır.
